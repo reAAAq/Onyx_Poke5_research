@@ -1,5 +1,9 @@
 # ONYX BOOX Poke5 ABL 启动模式逆向分析
 
+其他研究报告：
+
+- [Android 墨水屏刷新策略分析](docs/poke5_android_refresh_policy_analysis.md)
+
 ## 一、结论
 
 这份 Poke5 ABL 中可以确认的启动模式包括：正常启动、Recovery、ABL
